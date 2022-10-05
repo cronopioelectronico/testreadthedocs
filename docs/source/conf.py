@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Consul'
-copyright = 'CDF
+copyright = 'CDF'
 author = 'CDF'
 
 release = '0.1'
