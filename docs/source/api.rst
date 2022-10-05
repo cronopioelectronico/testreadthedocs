@@ -1,5 +1,5 @@
 Participatory Budgeting GUIDE
-===
+=============================
 
 1.- PROJECT PRESENTATION PHASE 
 
