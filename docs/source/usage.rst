@@ -1,4 +1,4 @@
-Usage
+1.1 Proposals
 =====
 
 .. _installation:
