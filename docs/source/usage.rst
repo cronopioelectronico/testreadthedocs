@@ -19,3 +19,8 @@ In this section are managed the processes of collaborative legislation. The basi
 
 Clicking "Create new process" can be defined which phases will be active (click in the "enabled" checkbox of each phase), the start and end dates of each phase, the information that will be shown in the web page of the process (title, summary for the list of processes, basic description and additional information), the basic style of the process (header and text colour) and additional documents that can be uploaded when required to that same page as additional information.
 
+1.3 Voting
+--------------
+
+In this section I'm trying to edit the existing text, by adding a new subsection. 
+
