@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+
+**Consul** is the largest participation platform for open governments, that reflects public values. 
