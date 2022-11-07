@@ -23,4 +23,4 @@ Contents
 
 **Consul** is the largest participation platform for open governments, that reflects public values. 
 
-Actions speak louder than words. Just take a look at our <https://consulproject.org/en/> map and see for yourself. 
+Actions speak louder than words. Just take a look at our :map: and see for yourself. 
